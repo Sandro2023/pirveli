@@ -1,0 +1,37 @@
+body {
+    color: black;     background-color: skyblue;
+}
+
+img {
+    width: 650px;
+}
+.first {
+text-align: center;
+padding: 0px;
+font-size: larger;
+background-color: skyblue;
+}
+
+table {margin:0 auto}
+table, th, td {
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+
+.gst {
+    color: black;
+    text-align: center
+}
+
+
+
+
+th, td {
+    padding: 15px;
+
+}
+
+a {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
